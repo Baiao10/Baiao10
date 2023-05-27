@@ -42,3 +42,4 @@
   <a href="https://www.linkedin.com/in/terencio-bai%C3%A3o-5a5a7b19a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+![Snake animation](https//github.com/Baiao10/Baiao10/blod/output/github-contribuition-grid-snake.svg)
