@@ -27,7 +27,6 @@
   <img align="center" alt="Wp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
 
   </div>
-  
   <h2>Estudando...</h2>
 <div style="display: inline_block"><br>
   
